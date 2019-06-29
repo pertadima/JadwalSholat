@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sholat</string>
+    <string name="a1">logo</string>
+    <string name="a2">Subuh</string>
+    <string name="a3">Zuhur</string>
+    <string name="a4">Ashar</string>
+    <string name="a5">Magrib</string>
+    <string name="a6">Isya</string>
+    <string name="a7">0:00</string>
+    <string name="a8">“Tiap-tiap umat mempunyai batas waktu; maka apabila telah datang waktunya mereka
+        tidak dapat mengundurkannya barang sesaat pun dan tidak dapat (pula) memajukannya.” (QS. Al A’raf: 34)</string>
+    <string name="a9">fikriprayoga.com</string>
+    <string name="a10">Asia/Jakarta \n 1 Januari 2019</string>
+</resources>
